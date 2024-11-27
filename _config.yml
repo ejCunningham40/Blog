@@ -22,8 +22,8 @@ title: SandCastles
 email: ethan@sunrise.co.za
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of reflections and commentaries that point to the Glory of God - His Grace and Love!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ejcunningham40.github.io/Blog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
+url: "https://ejcunningham40.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ejCunningham40
 instagram_username: ejCunnigham_
 
