@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-On this earth we're buidling SandCastles with our Father in heaven.
+On this earth, we're building sandcastles with our Father in heaven.
 
-We may build beautiful scultpures, fortresses and designs but in a moment a wave may come and sweep it all away. But the real joy comes from time spent with the Father and the realtionship that is buidlt with him because no wave will ever wash that relationship away.
+We may create beautiful sculptures, fortresses, and designs, but in a moment, a wave may come and sweep it all away. However, the real joy comes from the time spent with the Father and the relationship that is built with Him, because no wave can ever wash that relationship away.
 
-In life we often chase after sandcastles instead of focusing on the real joy, which is constant depsite the wind and waves of life. These writings aim to point us back to Him.
+In life, we often chase after sandcastles instead of focusing on the true joy, which remains constant despite the winds and waves of life. These writings aim to point us back to Him.
 
-Gensis 15:1b _"I am your shield, your very great reward."_
+Genesis 15:1b _"I am your shield, your very great reward."_
 
 <!-- This is the base Jekyll THEME. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
